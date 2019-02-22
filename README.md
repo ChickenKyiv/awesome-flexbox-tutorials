@@ -46,8 +46,8 @@ Originally posted on Medium: https://medium.com/quick-code/top-tutorials-to-lear
 
 #### Code generators
 
-- [Flexyboxes]http://the-echoplex.net/flexyboxes/
-- [Loading.io - Flexbox generator]https://loading.io/flexbox/
+- [Flexyboxes](http://the-echoplex.net/flexyboxes/)
+- [Loading.io - Flexbox generator](https://loading.io/flexbox/)
 - [Build with React - Flexbox generator](http://flexbox.buildwithreact.com/) (generator with a good preview)
 - [Fibonacci Flexbox Composer](http://maxsteenbergen.com/fibonacci/) 
 - [Visual flexbox builder](https://flexbox.webflow.com/)
@@ -57,11 +57,11 @@ Originally posted on Medium: https://medium.com/quick-code/top-tutorials-to-lear
 ---
 
 #### Additional Examples
-- [an-animated-guide-to-flexbox](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
-- [tutorial-css-flexbox-vs-grid-layout-ultimate-showdown](https://thenewstack.io/tutorial-css-flexbox-vs-grid-layout-ultimate-showdown/
-- [solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/
-- [React Rocks Flexbox tag](https://react.rocks/tag/Flexbox (Samples)
-- [flexboxfroggy Game](https://flexboxfroggy.com/ (good game that can help you practice)
+- [an-animated-guide-to-flexbox](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+- [tutorial-css-flexbox-vs-grid-layout-ultimate-showdown](https://thenewstack.io/tutorial-css-flexbox-vs-grid-layout-ultimate-showdown/)
+- [solved-by-flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+- [React Rocks Flexbox tag](https://react.rocks/tag/Flexbox)
+- [flexboxfroggy Game  (good game that can help you practice)](https://flexboxfroggy.com/)
 
 
 
@@ -78,7 +78,7 @@ Originally posted on Medium: https://medium.com/quick-code/top-tutorials-to-lear
 - [react-flexbox-grid-made-simple](https://reactjsexample.com/react-flexbox-grid-made-simple/)
 
 React packages
-- [react-flexbox-grid](https://roylee0704.github.io/react-flexbox-grid/ or https://www.npmjs.com/package/react-flexbox-grid)
+- [react-flexbox-grid](https://roylee0704.github.io/react-flexbox-grid/) or https://www.npmjs.com/package/react-flexbox-grid
 - [reflexbox](https://github.com/jxnblk/reflexbox)
 - [react-flexbox-svg](https://github.com/paulmelnikow/react-flexbox-svg)
 - [nice-react-layout](https://github.com/ekros/nice-react-layout)
