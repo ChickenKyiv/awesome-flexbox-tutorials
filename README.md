@@ -3,6 +3,7 @@ Top tutorials to learn Flexboxes for Frontend Development
 
 Originally posted on Medium: https://medium.com/quick-code/top-tutorials-to-learn-flexboxes-for-frontend-development-d6dfb2113b48
 
+Great course you can see here: https://github.com/jlr7245/flexbox-course-resource-materials
 
 ---
 
