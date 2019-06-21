@@ -1,4 +1,8 @@
 # awesome-flexbox-tutorials
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-flexbox-tutorials) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-flexbox-tutorials)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
 Top tutorials to learn Flexboxes for Frontend Development
 
 Originally posted on Medium: https://medium.com/quick-code/top-tutorials-to-learn-flexboxes-for-frontend-development-d6dfb2113b48
